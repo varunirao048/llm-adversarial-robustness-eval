@@ -1,0 +1,8 @@
+category,baseline,hardened
+direct,100.0,100.0
+encoding,60.0,65.0
+hypothetical,66.7,33.3
+indirect,75.0,50.0
+instruction_override,60.0,75.0
+roleplay,6.7,0.0
+social_engineering,33.3,13.3
